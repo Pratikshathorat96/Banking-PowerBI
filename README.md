@@ -1,5 +1,7 @@
 ![image](https://github.com/Pratikshathorat96/Banking-PowerBI/assets/120496034/7bf3e52d-76db-4ee5-8f77-01531b10f364)
 
+**Dashbord In PowerBI**
+https://drive.google.com/file/d/1t_IQMLa_AyEiHPRyJfkloZqaM7gGPAKJ/view?usp=sharing
 
 # Banking-PowerBI
 
@@ -40,3 +42,6 @@ The "BankingDataset2.xlsx" file contains the following columns:
 7. **OpeningDate**: The date when the account was opened.
 8. **LoanAmount**: The amount of loan associated with the account (if applicable).
 9. **AccountHolderDetails:** Details about account holders - employment sector, years at current residence, and city of residence etc.
+
+
+
